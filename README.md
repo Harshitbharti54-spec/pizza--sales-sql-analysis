@@ -1,5 +1,5 @@
 
-Pizza Sales Analytics — SQL Project
+**Pizza Sales Analytics — SQL Project**
 
 A SQL-based analytical project exploring pizza sales data to uncover trends in orders, revenue, customer preferences, and time-of-day patterns.
 
