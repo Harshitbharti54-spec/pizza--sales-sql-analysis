@@ -3,8 +3,6 @@
 
 A SQL-based analytical project exploring pizza sales data to uncover trends in orders, revenue, customer preferences, and time-of-day patterns.
 
-This project was completed as a guided learning exercise based on a YouTube tutorial.
-
 ---
 
 ##  Dataset
